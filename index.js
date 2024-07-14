@@ -7,6 +7,7 @@ const path = require("path");
 const EnvConfig = require("./app/config/config");
 require("./app/config/db_config");//db connnection
 
+
 app.use(bodyparser.json({ limit: "100mb" }));
 app.use(bodyparser.urlencoded({ limit: "100mb", extended: true }));
 app.use(express.json());
