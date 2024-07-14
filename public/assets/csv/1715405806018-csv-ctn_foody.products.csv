@@ -1,0 +1,3 @@
+_id,name,description,price,quantity,csv,status,is_delete,created_by,created_at,updated_at,__v
+663b79913bc776630fb1c25c,asdftgyui,asdfghjk,123,12,,true,false,663b2d36bbbce08bb319ffc4,2024-05-08T13:09:37.913Z,2024-05-08T13:09:37.913Z,0
+663b79ad5d82b1b387d5212f,asdftgyui,asdfghjk,1,12,,true,false,663b2d36bbbce08bb319ffc4,2024-05-08T13:10:05.052Z,2024-05-08T13:10:05.052Z,0
